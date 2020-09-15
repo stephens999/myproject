@@ -14,7 +14,6 @@ Here I am going to have a quick look at the ToothGrowth data set.
 
 First let's read in the data
 ```{r import-teeth}
-set.seed(123)
 teeth <- read.csv("data/teeth.csv", row.names=1)
 head(teeth)
 ```
