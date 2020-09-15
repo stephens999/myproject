@@ -12,9 +12,7 @@ navbar:
   right:
   - icon: fa-github
     text: Source code
-    href: |-
-      https://github.com/
-                       stephens999/myproject
+    href: https://github.com/stephens999/myproject
 output:
   workflowr::wflow_html:
     toc: yes
